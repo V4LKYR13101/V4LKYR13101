@@ -33,7 +33,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 
-## 🧠 About Me
+## About Me
 
 - Gravitate toward **AI, local LLM inference, and hardware meets intelligence** problems.
 - Currently exploring inference optimization and what local models can actually do.
