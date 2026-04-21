@@ -1,13 +1,8 @@
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/V4LKYR13101/K2.Maui">
-        <img src="https://img.shields.io/badge/-%20-0d1117?style=for-the-badge&logo=github" height="80">
-        <img src="https://img.shields.io/badge/K2.MAUI-000000?style=for-the-badge" height="80">
-      </a>
-    </td>
-  </tr>
-</table>
+
+# <a href="https://github.com/V4LKYR13101/K2.Maui">
+  <img src="https://img.shields.io/badge/-%20-0d1117?style=for-the-badge&logo=github&logoColor=white" height="45">
+  <img src="https://img.shields.io/badge/K2.MAUI-000000?style=for-the-badge" height="45">
+</a>
 
 Android mobile client for the OpenClaw AI gateway. Built with .NET MAUI, it delivers a WhatsApp-style conversational interface with voice input, real-time text-to-speech, and a persistent background connection to a self-hosted AI agent.
 
