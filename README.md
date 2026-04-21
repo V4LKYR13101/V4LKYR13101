@@ -15,7 +15,7 @@ Android mobile client for the OpenClaw AI gateway. Built with .NET MAUI, it deli
 
 
 <a href="https://github.com/V4LKYR13101/K2.Python">
-  <img src="https://img.shields.io/badge/K2.Python-0d1117?style=for-the-badge&logo=github" width="250">
+  <img src="https://img.shields.io/badge/K2.Python-0d1117?style=for-the-badge&logo=github" width="300">
 </a>
 
 Terminal-based AI agent client that connects to an OpenClaw gateway over WebSocket. It supports both text and voice interaction, streams responses from a remote agent, and gives the agent a rich set of local tools to autonomously perform coding tasks — file editing, terminal commands, git operations, web requests, and more.
