@@ -1,4 +1,7 @@
-# [![K2.MAUI](https://img.shields.io/badge/K2.MAUI-000000?style=flat&logo=github)](https://github.com/V4LKYR13101/K2.Maui)
+
+<a href="https://github.com/V4LKYR13101/K2.Maui">
+  <img src="https://img.shields.io/badge/K2.Maui-000000?style=for-the-badge&logo=github" width="250">
+</a>
 
 Android mobile client for the OpenClaw AI gateway. Built with .NET MAUI, it delivers a WhatsApp-style conversational interface with voice input, real-time text-to-speech, and a persistent background connection to a self-hosted AI agent.
 
@@ -8,8 +11,12 @@ Android mobile client for the OpenClaw AI gateway. Built with .NET MAUI, it deli
 ![GitHub forks](https://img.shields.io/github/forks/v4lkyr13101/k2.MAUI)
 ![GitHub Repo stars](https://img.shields.io/github/stars/v4lkyr13101/K2.MAUI)
 
+---
 
-# [![K2.Python](https://img.shields.io/badge/K2.Python-000000?style=flat&logo=github)](https://github.com/V4LKYR13101/Bert-finetune)
+
+<a href="https://github.com/V4LKYR13101/K2.Python">
+  <img src="https://img.shields.io/badge/K2.Python-000000?style=for-the-badge&logo=github" width="250">
+</a>
 
 Terminal-based AI agent client that connects to an OpenClaw gateway over WebSocket. It supports both text and voice interaction, streams responses from a remote agent, and gives the agent a rich set of local tools to autonomously perform coding tasks — file editing, terminal commands, git operations, web requests, and more.
 
