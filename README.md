@@ -5,10 +5,5 @@
 [![Email](https://img.shields.io/badge/Email-mr.loggenberg@gmail.com-D14836?style=flat&logo=gmail)](mailto:mr.loggenberg@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0719176632-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/0719176632)
 
-### Gravitate toward **AI, local LLM inference, and hardware meets intelligence** problems.
-### Currently exploring inference optimization and what local models can actually do.
-### Believer in **ownership over excuses** — show me results, not reasons.
-
-
 _"If something is broken, understand it. If it can be improved, improve it. If it does not exist, build it."_
 > 📍 Johannesburg, South Africa · 🕐 UTC+2
