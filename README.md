@@ -1,19 +1,14 @@
 # 👋 Hey, I'm Kevin
 
-### 🧑‍💻 Backend Engineer · Systems Builder · South Africa
-
----
-
-## 🔗 Connect
-
 [![GitHub](https://img.shields.io/badge/GitHub-V4LKYR13101-181717?style=flat&logo=github)](https://github.com/V4LKYR13101)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Loggenberg-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ksloggenberg)
 [![Email](https://img.shields.io/badge/Email-mr.loggenberg@gmail.com-D14836?style=flat&logo=gmail)](mailto:mr.loggenberg@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0719176632-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/0719176632)
 
----
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v4lkyr13101&show_icons=true&theme=dark&hide_border=true)
 
-## 🛠 I dabble
+
+## I dabble
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -36,13 +31,7 @@
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
----
 
-## 📊 GitHub Stats
-
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v4lkyr13101&show_icons=true&theme=dark&hide_border=true)
-
----
 
 ## 🧠 About Me
 
