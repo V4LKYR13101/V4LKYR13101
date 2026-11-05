@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.svg" alt="Kevin Loggenberg · Full-stack software developer and Intelligent Transport Systems professional · Johannesburg, South Africa" width="100%">
+  <img src="./profile-banner.svg" alt="Kevin Loggenberg · Full-stack software developer · Johannesburg, South Africa" width="100%">
 </p>
 
 <p align="center">
