@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 290" width="1100" height="290" role="img" aria-labelledby="title">
+  <title id="title">Kevin Loggenberg, full-stack software developer and ITS professional</title>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101727"/>
+      <stop offset="1" stop-color="#171431"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#61f1d2"/>
+      <stop offset="1" stop-color="#a39aff"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#a49de5" stroke-opacity=".12"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1100" height="290" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1100" height="290" fill="url(#background)"/>
+    <path d="M819 0h281v290H694z" fill="url(#grid)"/>
+    <g fill="none" stroke="#aaa2ef" stroke-opacity=".22">
+      <path d="M1100 48h-106l-30 30h-62M1100 229h-90l-35-35h-62M836 290v-44l30-30v-29M752 0v49l45 45h48M1001 0v26l-26 26"/>
+      <circle cx="919" cy="145" r="104"/>
+      <circle cx="919" cy="145" r="87" stroke-dasharray="3 7"/>
+    </g>
+    <g fill="#7eeddb">
+      <circle cx="902" cy="78" r="3"/>
+      <circle cx="913" cy="194" r="3"/>
+      <circle cx="845" cy="94" r="3"/>
+      <circle cx="866" cy="187" r="3"/>
+    </g>
+    <path d="M919 65l70 40v80l-70 40-70-40v-80z" fill="#141932" stroke="url(#accent)" stroke-width="2"/>
+    <path d="m900 123-24 22 24 22m38-44 24 22-24 22m-10-53-18 62" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M54 58h29" stroke="#61f1d2" stroke-width="3" stroke-linecap="round"/>
+    <g font-family="Consolas, Menlo, monospace" font-size="15" letter-spacing="2" fill="#86eed9">
+      <text x="97" y="63">V4LKYR13101</text>
+      <text x="54" y="244" fill="#c6c1ec">JOHANNESBURG, ZA · UTC+2</text>
+    </g>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <text x="51" y="145" fill="#f7f7ff" font-size="64" font-weight="700">Kevin Loggenberg</text>
+      <text x="54" y="189" fill="#dbd8f4" font-size="23">Full-stack software developer · ITS professional</text>
+    </g>
+    <rect x=".75" y=".75" width="1098.5" height="288.5" rx="23.25" fill="none" stroke="#534d7a" stroke-width="1.5"/>
+  </g>
+</svg>
