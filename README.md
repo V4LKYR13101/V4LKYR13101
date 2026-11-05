@@ -211,3 +211,5 @@ An experiment in using OpenAI's Whisper model to turn audio into text locally.
 > If something is broken, understand it. If it can be improved, improve it. If it does not exist, build it.
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,php,python,flask,firebase,nextjs,react,electron,raspberrypi,mysql,sqlite,postgres,js,html,css,docker,visualstudio,vscode,)](https://skillicons.dev)
+![Profile views](https://komarev.com/ghpvc/?username=V4LKYR13101&style=flat-square)
+
