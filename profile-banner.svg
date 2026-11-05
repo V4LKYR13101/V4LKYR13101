@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 290" width="1100" height="290" role="img" aria-labelledby="title">
-  <title id="title">Kevin Loggenberg, full-stack software developer and ITS professional</title>
+  <title id="title">Kevin Loggenberg, full-stack software developer</title>
   <defs>
     <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
       <stop stop-color="#101727"/>
@@ -37,7 +37,7 @@
     </g>
     <g font-family="Segoe UI, Arial, sans-serif">
       <text x="51" y="145" fill="#f7f7ff" font-size="64" font-weight="700">Kevin Loggenberg</text>
-      <text x="54" y="189" fill="#dbd8f4" font-size="23">Full-stack software developer · ITS professional</text>
+      <text x="54" y="189" fill="#dbd8f4" font-size="23">Full-stack software developer</text>
     </g>
     <rect x=".75" y=".75" width="1098.5" height="288.5" rx="23.25" fill="none" stroke="#534d7a" stroke-width="1.5"/>
   </g>
