@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./profile-banner.svg" alt="Kevin Loggenberg · Full-stack software developer · Johannesburg, South Africa" width="100%">
+  <img src="./assets/profile-banner.png" alt="Kevin Loggenberg · Full-stack software developer · Johannesburg, South Africa" width="100%">
 </p>
 
 <p align="center">
   <a href="https://kevlog.co.za/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-176C62?style=for-the-badge&amp;logo=firefoxbrowser&amp;logoColor=white" height="26"></a>
-  <a href="https://kevlog.co.za/blog/"><img alt="Writing" src="https://img.shields.io/badge/Writing-5146A4?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" height="26"></a>
+  <a href="https://kevlog.co.za/blog/"><img alt="Writing" src="https://img.shields.io/badge/Writing-176C62?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" height="26"></a>
   <a href="https://www.linkedin.com/in/ksloggenberg/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-245C92?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yIDhoNHYxNEgyem0yLTZhMiAyIDAgMSAxIDAgNCAyIDIgMCAwIDEgMC00em01IDZoNHYyYzEtMiA0LTMgNi0yIDIgMSAzIDMgMyA2djhoLTR2LThjMC0zLTUtMy01IDB2OEg5eiIvPjwvc3ZnPg%3D%3D&amp;logoColor=white" height="26"></a>
   <a href="https://github.com/V4LKYR13101?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-292640?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="26"></a>
 </p>
