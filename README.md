@@ -13,10 +13,9 @@ I build software across the web, desktop, mobile and embedded devices. My projec
 
 ## ✦ Projects
 
-Newest first. Select any row to open the project.
-
 <details>
-<summary><picture><img alt="WaTenancy" src="https://img.shields.io/badge/WaTenancy-176C62?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; A company-scoped WhatsApp messaging service &nbsp; <code>Messaging</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/Messaging-30363D?style=flat-square" alt="Messaging" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=whatsapp&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>WaTenancy</strong><br>
+&emsp;&nbsp;WhatsApp messaging for teams</summary>
 
 An ASP.NET Core and Blazor Server application that wraps <code>wacli</code> so companies can manage multiple WhatsApp numbers, team access, API keys and webhook endpoints within their own workspace.
 
@@ -25,44 +24,48 @@ An ASP.NET Core and Blazor Server application that wraps <code>wacli</code> so c
 </details>
 
 <details>
-<summary><picture><img alt="Smoke Jumper" src="https://img.shields.io/badge/Smoke_Jumper-1D4ED8?style=for-the-badge&amp;logo=docker&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; Run .NET apps and restore databases in Docker &nbsp; <code>Dev Tools</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/Dev_Tools-30363D?style=flat-square" alt="Dev Tools" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=docker&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>Smoke Jumper</strong><br>
+&emsp;&nbsp;.NET and database sandboxes in Docker</summary>
 
 I built a Windows tool for spinning up local test environments from a .NET project or a published build. You can run the application, restore a database copy, or bring both up together. Each workspace keeps its containers, ports, logs and backup history in one place.
 
 For recovery drills, it restores MySQL or SQL Server backups into separate containers and reports checks such as backup checksums, restored data comparisons and HTTP smoke tests individually.
 
-<img alt="C#" src="https://img.shields.io/badge/C%23-a044b3?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMCIgeT0iMTgiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjE3IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiPkMjPC90ZXh0Pjwvc3ZnPg%3D%3D&amp;logoColor=white" height="19"> &nbsp; ASP.NET Core &nbsp; <img alt="Docker" src="https://img.shields.io/badge/Docker-1D4ED8?style=flat-square&amp;logo=docker&amp;logoColor=white" height="19"> &nbsp; <img alt="MySQL" src="https://img.shields.io/badge/MySQL-245C92?style=flat-square&amp;logo=mysql&amp;logoColor=white" height="19"> &nbsp; SQL Server
+<img alt="C#" src="https://img.shields.io/badge/C%23-a044b3?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMCIgeT0iMTgiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjE3IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiPkMjPC90ZXh0Pjwvc3ZnPg%3D%3D&amp;logoColor=white" height="19"> &nbsp; <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" height="19"> &nbsp; <img alt="Docker" src="https://img.shields.io/badge/Docker-1D4ED8?style=flat-square&amp;logo=docker&amp;logoColor=white" height="19"> &nbsp; <img alt="MySQL" src="https://img.shields.io/badge/MySQL-245C92?style=flat-square&amp;logo=mysql&amp;logoColor=white" height="19"> &nbsp; <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-A31554?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI4IiByeT0iMyIvPjxwYXRoIGQ9Ik00IDV2MTRjMCA0IDE2IDQgMTYgMFY1TTQgMTJjMCA0IDE2IDQgMTYgMCIvPjwvZz48L3N2Zz4%3D&amp;logoColor=white" height="19">
 
 [Project walkthrough and screenshots](https://kevlog.co.za/projects/smoke-jumper/) · [Backup and recovery write-up](https://kevlog.co.za/blog/smoke-jumper-backup-recovery/)
 
 </details>
 
 <details>
-<summary><picture><img alt="Pico Studio" src="https://img.shields.io/badge/Pico_Studio-A31554?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; A desktop workspace for developing on the Raspberry Pi Pico &nbsp; <code>Dev Tools</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/Dev_Tools-30363D?style=flat-square" alt="Dev Tools" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=raspberrypi&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>Pico Studio</strong><br>
+&emsp;&nbsp;A workspace for Raspberry Pi Pico</summary>
 
 I built Pico Studio to bring device files, a Python editor, diagnostics and the USB console into one desktop app. It can listen to a running board as soon as it connects. You enter the REPL explicitly when you need file access.
 
 The editor includes syntax checks and Pyflakes diagnostics. You can transfer folders and ZIP archives and opt into live monitoring for heap usage, filesystem space and clock frequency.
 
-<img alt="Python" src="https://img.shields.io/badge/Python-245C92?style=flat-square&amp;logo=python&amp;logoColor=white" height="19"> &nbsp; Tkinter &nbsp; <img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-292640?style=flat-square&amp;logo=micropython&amp;logoColor=white" height="19"> &nbsp; pyserial &nbsp; mpremote
+<img alt="Python" src="https://img.shields.io/badge/Python-245C92?style=flat-square&amp;logo=python&amp;logoColor=white" height="19"> &nbsp; <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-245C92?style=flat-square&amp;logo=python&amp;logoColor=white" height="19"> &nbsp; <img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-292640?style=flat-square&amp;logo=micropython&amp;logoColor=white" height="19"> &nbsp; <img alt="pyserial" src="https://img.shields.io/badge/pyserial-176C62?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik05IDJ2Nm02LTZ2Nk02IDhoMTJ2NGE2IDYgMCAwIDEtMTIgMHptNiAxMHY0Ii8%2BPC9nPjwvc3ZnPg%3D%3D&amp;logoColor=white" height="19"> &nbsp; <img alt="mpremote" src="https://img.shields.io/badge/mpremote-5146A4?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjIiIHk9IjMiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxOCIgcng9IjIiLz48cGF0aCBkPSJtNiA4IDQgNC00IDRtNyAwaDUiLz48L2c%2BPC9zdmc%2B&amp;logoColor=white" height="19">
 
 [Project walkthrough and screenshots](https://kevlog.co.za/projects/pico-studio/)
 
 </details>
 
 <details>
-<summary><picture><img alt="Kevlog Desk Display" src="https://img.shields.io/badge/Kevlog_Desk_Display-176C62?style=for-the-badge&amp;logo=micropython&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; Portfolio analytics on a Pico e-paper screen &nbsp; <code>Embedded</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/Embedded-30363D?style=flat-square" alt="Embedded" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=micropython&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>Kevlog Desk Display</strong><br>
+&emsp;&nbsp;Portfolio analytics on e-paper</summary>
 
 A Raspberry Pi Pico 2 W pulls aggregate analytics from my portfolio and cycles through daily, weekly, monthly and all-time views on a 2.13-inch Waveshare e-paper panel. It shows browser views, visitor estimates and download starts.
 
 The firmware uses partial refreshes for routine updates, remembers multiple Wi-Fi networks and shows the last reading as stale if it loses access to the API. A setup portal lets me configure the device from a phone.
 
-<img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-292640?style=flat-square&amp;logo=micropython&amp;logoColor=white" height="19"> &nbsp; <img alt="Raspberry Pi Pico 2 W" src="https://img.shields.io/badge/Raspberry_Pi_Pico_2_W-A31554?style=flat-square&amp;logo=raspberrypi&amp;logoColor=white" height="19"> &nbsp; Waveshare e-paper
+<img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-292640?style=flat-square&amp;logo=micropython&amp;logoColor=white" height="19"> &nbsp; <img alt="Raspberry Pi Pico 2 W" src="https://img.shields.io/badge/Raspberry_Pi_Pico_2_W-A31554?style=flat-square&amp;logo=raspberrypi&amp;logoColor=white" height="19"> &nbsp; <img alt="Waveshare e-paper" src="https://img.shields.io/badge/Waveshare_e--paper-5146A4?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjIiIHk9IjMiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgcng9IjIiLz48cGF0aCBkPSJNOCAyMmg4bS00LTV2NSIvPjwvZz48L3N2Zz4%3D&amp;logoColor=white" height="19">
 
 </details>
 
 <details>
-<summary><picture><img alt="Kevlog" src="https://img.shields.io/badge/Kevlog-245C92?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; A self-hosted portfolio, blog and writing studio &nbsp; <code>Web</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/Web-30363D?style=flat-square" alt="Web" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=sqlite&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>Kevlog</strong><br>
+&emsp;&nbsp;My portfolio and writing studio</summary>
 
 I built the site behind this profile as a place to document projects, share technical notes and publish interactive examples. It has a SQLite-backed CMS for editing articles and project galleries, searchable topics, and aggregate analytics that also power my e-paper display.
 
@@ -73,7 +76,8 @@ I built the site behind this profile as a place to document projects, share tech
 </details>
 
 <details>
-<summary><picture><img alt="Forge" src="https://img.shields.io/badge/Forge-6D28D9?style=for-the-badge&amp;logo=fitbit&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; Local-first strength training with a 3D muscle map &nbsp; <code>Fitness</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/Fitness-30363D?style=flat-square" alt="Fitness" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=fitbit&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>Forge</strong><br>
+&emsp;&nbsp;Strength training with a 3D muscle map</summary>
 
 I designed Forge to keep workout logging close to the session, whether you have your phone or just your watch. It spans Android, Windows and the web, with a native Wear OS companion for logging sets and tracking rest timers.
 
@@ -87,18 +91,20 @@ I designed Forge to keep workout logging close to the session, whether you have 
 </details>
 
 <details>
-<summary><picture><img alt="K2.Python" src="https://img.shields.io/badge/K2.Python-245C92?style=for-the-badge&amp;logo=python&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; A terminal client that gives OpenClaw local tools &nbsp; <code>AI Clients</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/AI_Clients-30363D?style=flat-square" alt="AI Clients" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=python&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>K2.Python</strong><br>
+&emsp;&nbsp;OpenClaw for the terminal</summary>
 
 K2.Python streams replies from a self-hosted OpenClaw gateway into the terminal and accepts text or voice input. Its tool layer lets the agent work in a local development environment by reading and editing files, running shell commands, using Git and making web requests.
 
-<img alt="Python" src="https://img.shields.io/badge/Python-245C92?style=flat-square&amp;logo=python&amp;logoColor=white" height="19"> &nbsp; WebSockets &nbsp; <img alt="OpenClaw" src="https://img.shields.io/badge/OpenClaw-A31554?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiA1YTcgNyAwIDAgMC02IDRDMiA0LTIgOSAyIDEzbDMtMWMwIDQgMiA2IDQgN3YzaDJ2LTNoMnYzaDJ2LTNjMi0xIDQtMyA0LTdsMyAxYzQtNCAwLTktNC00YTcgNyAwIDAgMC02LTR6Ii8%2BPHBhdGggc3Ryb2tlPSJ3aGl0ZSIgZmlsbD0ibm9uZSIgZD0ibTkgNi0zLTRtOSA0IDMtNCIvPjxjaXJjbGUgY3g9IjkiIGN5PSIxMCIgcj0iMS40IiBmaWxsPSIjYTMxNTU0Ii8%2BPGNpcmNsZSBjeD0iMTUiIGN5PSIxMCIgcj0iMS40IiBmaWxsPSIjYTMxNTU0Ii8%2BPC9zdmc%2B&amp;logoColor=white" height="19">
+<img alt="Python" src="https://img.shields.io/badge/Python-245C92?style=flat-square&amp;logo=python&amp;logoColor=white" height="19"> &nbsp; <img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-176C62?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0zIDdoMThtLTQtNCA0IDQtNCA0bTQgNkgzbTQtNC00IDQgNCA0Ii8%2BPC9nPjwvc3ZnPg%3D%3D&amp;logoColor=white" height="19"> &nbsp; <img alt="OpenClaw" src="https://img.shields.io/badge/OpenClaw-A31554?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiA1YTcgNyAwIDAgMC02IDRDMiA0LTIgOSAyIDEzbDMtMWMwIDQgMiA2IDQgN3YzaDJ2LTNoMnYzaDJ2LTNjMi0xIDQtMyA0LTdsMyAxYzQtNCAwLTktNC00YTcgNyAwIDAgMC02LTR6Ii8%2BPHBhdGggc3Ryb2tlPSJ3aGl0ZSIgZmlsbD0ibm9uZSIgZD0ibTkgNi0zLTRtOSA0IDMtNCIvPjxjaXJjbGUgY3g9IjkiIGN5PSIxMCIgcj0iMS40IiBmaWxsPSIjYTMxNTU0Ii8%2BPGNpcmNsZSBjeD0iMTUiIGN5PSIxMCIgcj0iMS40IiBmaWxsPSIjYTMxNTU0Ii8%2BPC9zdmc%2B&amp;logoColor=white" height="19">
 
 [Source on GitHub](https://github.com/V4LKYR13101/K2.Python)
 
 </details>
 
 <details>
-<summary><picture><img alt="OpenClaw Skills" src="https://img.shields.io/badge/OpenClaw_Skills-A31554?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiA1YTcgNyAwIDAgMC02IDRDMiA0LTIgOSAyIDEzbDMtMWMwIDQgMiA2IDQgN3YzaDJ2LTNoMnYzaDJ2LTNjMi0xIDQtMyA0LTdsMyAxYzQtNCAwLTktNC00YTcgNyAwIDAgMC02LTR6Ii8%2BPHBhdGggc3Ryb2tlPSJ3aGl0ZSIgZmlsbD0ibm9uZSIgZD0ibTkgNi0zLTRtOSA0IDMtNCIvPjxjaXJjbGUgY3g9IjkiIGN5PSIxMCIgcj0iMS40IiBmaWxsPSIjYTMxNTU0Ii8%2BPGNpcmNsZSBjeD0iMTUiIGN5PSIxMCIgcj0iMS40IiBmaWxsPSIjYTMxNTU0Ii8%2BPC9zdmc%2B&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; Reusable capabilities for self-hosted agents &nbsp; <code>Automation</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/Automation-30363D?style=flat-square" alt="Automation" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiA1YTcgNyAwIDAgMC02IDRDMiA0LTIgOSAyIDEzbDMtMWMwIDQgMiA2IDQgN3YzaDJ2LTNoMnYzaDJ2LTNjMi0xIDQtMyA0LTdsMyAxYzQtNCAwLTktNC00YTcgNyAwIDAgMC02LTR6Ii8%2BPHBhdGggc3Ryb2tlPSJ3aGl0ZSIgZmlsbD0ibm9uZSIgZD0ibTkgNi0zLTRtOSA0IDMtNCIvPjxjaXJjbGUgY3g9IjkiIGN5PSIxMCIgcj0iMS40IiBmaWxsPSIjYTMxNTU0Ii8%2BPGNpcmNsZSBjeD0iMTUiIGN5PSIxMCIgcj0iMS40IiBmaWxsPSIjYTMxNTU0Ii8%2BPC9zdmc%2B&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>OpenClaw Skills</strong><br>
+&emsp;&nbsp;Reusable tools for OpenClaw agents</summary>
 
 A collection of installable agent skills, including a fitness data connector that retrieves metrics such as steps, distance and active minutes.
 
@@ -107,29 +113,32 @@ A collection of installable agent skills, including a fitness data connector tha
 </details>
 
 <details>
-<summary><picture><img alt="K2.Maui" src="https://img.shields.io/badge/K2.Maui-176C62?style=for-the-badge&amp;logo=android&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; An Android voice and chat client for OpenClaw &nbsp; <code>AI Clients</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/AI_Clients-30363D?style=flat-square" alt="AI Clients" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=android&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>K2.Maui</strong><br>
+&emsp;&nbsp;OpenClaw voice and chat for Android</summary>
 
 A .NET MAUI client for talking to a self-hosted OpenClaw agent from Android. I built a messaging-style interface with voice input, spoken replies and a persistent WebSocket connection that can run in the background.
 
-<img alt="C#" src="https://img.shields.io/badge/C%23-a044b3?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMCIgeT0iMTgiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjE3IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiPkMjPC90ZXh0Pjwvc3ZnPg%3D%3D&amp;logoColor=white" height="19"> &nbsp; <img alt=".NET MAUI" src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" height="19"> &nbsp; <img alt="Android" src="https://img.shields.io/badge/Android-176C62?style=flat-square&amp;logo=android&amp;logoColor=white" height="19"> &nbsp; WebSockets
+<img alt="C#" src="https://img.shields.io/badge/C%23-a044b3?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMCIgeT0iMTgiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjE3IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiPkMjPC90ZXh0Pjwvc3ZnPg%3D%3D&amp;logoColor=white" height="19"> &nbsp; <img alt=".NET MAUI" src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" height="19"> &nbsp; <img alt="Android" src="https://img.shields.io/badge/Android-176C62?style=flat-square&amp;logo=android&amp;logoColor=white" height="19"> &nbsp; <img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-176C62?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0zIDdoMThtLTQtNCA0IDQtNCA0bTQgNkgzbTQtNC00IDQgNCA0Ii8%2BPC9nPjwvc3ZnPg%3D%3D&amp;logoColor=white" height="19">
 
 [Source on GitHub](https://github.com/V4LKYR13101/K2.Maui) · [Portfolio screenshots](https://kevlog.co.za/projects/k2-maui/)
 
 </details>
 
 <details>
-<summary><picture><img alt="Twenty4Hire" src="https://img.shields.io/badge/Twenty4Hire-6D28D9?style=for-the-badge&amp;logo=blazor&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; Conversational interview practice and job discovery &nbsp; <code>Recruitment</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/Recruitment-30363D?style=flat-square" alt="Recruitment" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=blazor&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>Twenty4Hire</strong><br>
+&emsp;&nbsp;Voice interviews and job discovery</summary>
 
 At Dynamic Data Technologies, I helped design and develop a recruitment platform with spoken interview simulations, adaptive follow-up questions and candidate reports. The platform also includes map-based job discovery, PayFast payments and scheduled background processing.
 
-<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" height="19"> &nbsp; <img alt="Blazor" src="https://img.shields.io/badge/Blazor-6D28D9?style=flat-square&amp;logo=blazor&amp;logoColor=white" height="19"> &nbsp; EF Core &nbsp; <img alt="ONNX Runtime" src="https://img.shields.io/badge/ONNX_Runtime-245C92?style=flat-square&amp;logo=onnx&amp;logoColor=white" height="19"> &nbsp; PayFast
+<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" height="19"> &nbsp; <img alt="Blazor" src="https://img.shields.io/badge/Blazor-6D28D9?style=flat-square&amp;logo=blazor&amp;logoColor=white" height="19"> &nbsp; <img alt="EF Core" src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI4IiByeT0iMyIvPjxwYXRoIGQ9Ik00IDV2MTRjMCA0IDE2IDQgMTYgMFY1TTQgMTJjMCA0IDE2IDQgMTYgMCIvPjwvZz48L3N2Zz4%3D&amp;logoColor=white" height="19"> &nbsp; <img alt="ONNX Runtime" src="https://img.shields.io/badge/ONNX_Runtime-245C92?style=flat-square&amp;logo=onnx&amp;logoColor=white" height="19"> &nbsp; <img alt="PayFast" src="https://img.shields.io/badge/PayFast-176C62?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjIiIHk9IjUiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgcng9IjIiLz48cGF0aCBkPSJNMiAxMGgyME02IDE1aDMiLz48L2c%2BPC9zdmc%2B&amp;logoColor=white" height="19">
 
 [Project overview](https://kevlog.co.za/projects/twenty4hire/)
 
 </details>
 
 <details>
-<summary><picture><img alt="BlazorComponents" src="https://img.shields.io/badge/BlazorComponents-6D28D9?style=for-the-badge&amp;logo=blazor&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; Reusable UI components for Blazor &nbsp; <code>Web</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/Web-30363D?style=flat-square" alt="Web" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=blazor&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>BlazorComponents</strong><br>
+&emsp;&nbsp;Reusable UI components for Blazor</summary>
 
 A collection of Blazor components you can copy into a project and adapt directly.
 
@@ -138,7 +147,8 @@ A collection of Blazor components you can copy into a project and adapt directly
 </details>
 
 <details>
-<summary><picture><img alt="ZettelAi" src="https://img.shields.io/badge/ZettelAi-6D28D9?style=for-the-badge&amp;logo=obsidian&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; A desktop assistant with searchable notes &nbsp; <code>AI Clients</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/AI_Clients-30363D?style=flat-square" alt="AI Clients" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=obsidian&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>ZettelAi</strong><br>
+&emsp;&nbsp;Desktop AI chat and searchable notes</summary>
 
 Zettel combines AI chat and note-taking in a translucent desktop overlay. You can dictate text, switch AI providers and create, search or edit notes from the same workspace.
 
@@ -147,7 +157,8 @@ Zettel combines AI chat and note-taking in a translucent desktop overlay. You ca
 </details>
 
 <details>
-<summary><picture><img alt="LinkedIn Profile Analyser" src="https://img.shields.io/badge/LinkedIn_Profile_Analyser-245C92?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; Ask questions about a profile from Chrome &nbsp; <code>Browser Extension</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/Extension-30363D?style=flat-square" alt="Extension" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=googlechrome&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>LinkedIn Profile Analyser</strong><br>
+&emsp;&nbsp;Analyse LinkedIn profiles in Chrome</summary>
 
 A Chrome extension that reads the profile you have open and passes its text to a selected Google AI model for analysis. A sidebar lets you save and reuse questions across profiles.
 
@@ -156,7 +167,8 @@ A Chrome extension that reads the profile you have open and passes its text to a
 </details>
 
 <details>
-<summary><picture><img alt="BERT Fine-Tuning" src="https://img.shields.io/badge/BERT_Fine--Tuning-8F4B12?style=for-the-badge&amp;logo=huggingface&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; Train a text classifier on a laptop &nbsp; <code>Applied ML</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/Applied_ML-30363D?style=flat-square" alt="Applied ML" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=huggingface&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>BERT Fine-Tuning</strong><br>
+&emsp;&nbsp;Train a text classifier on a laptop</summary>
 
 A hands-on fine-tuning example using trading-related text as the classification problem.
 
@@ -165,7 +177,8 @@ A hands-on fine-tuning example using trading-related text as the classification 
 </details>
 
 <details>
-<summary><picture><img alt="MauiVisionONNX" src="https://img.shields.io/badge/MauiVisionONNX-245C92?style=for-the-badge&amp;logo=onnx&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; Live camera classification on Android &nbsp; <code>Applied ML</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/Applied_ML-30363D?style=flat-square" alt="Applied ML" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=onnx&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>MauiVisionONNX</strong><br>
+&emsp;&nbsp;Live camera classification on Android</summary>
 
 I adapted the .NET MAUI ONNX sample to classify images from the live camera using inference on the device.
 
@@ -174,7 +187,8 @@ I adapted the .NET MAUI ONNX sample to classify images from the live camera usin
 </details>
 
 <details>
-<summary><picture><img alt="Local Phi-3 inference" src="https://img.shields.io/badge/Local_Phi--3_inference-6D28D9?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; Run a language model on the CPU with .NET &nbsp; <code>Applied ML</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/Applied_ML-30363D?style=flat-square" alt="Applied ML" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=dotnet&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>Local Phi-3 inference</strong><br>
+&emsp;&nbsp;Run Phi-3 on the CPU with .NET</summary>
 
 A .NET and ONNX experiment that runs Phi-3 on the CPU and explores what local language-model inference looks like without a dedicated GPU.
 
@@ -183,7 +197,8 @@ A .NET and ONNX experiment that runs Phi-3 on the CPU and explores what local la
 </details>
 
 <details>
-<summary><picture><img alt="Local Whisper transcription" src="https://img.shields.io/badge/Local_Whisper_transcription-176C62?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIgMTB2NG01LTh2MTJtNS0xNnYyMG01LTE2djEybTUtOHY0IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjwvc3ZnPg%3D%3D&amp;logoColor=white" height="22" align="middle"></picture> &nbsp; Run speech-to-text on your own machine &nbsp; <code>Applied ML</code></summary>
+<summary><picture><img src="https://img.shields.io/badge/Applied_ML-30363D?style=flat-square" alt="Applied ML" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIgMTB2NG01LTh2MTJtNS0xNnYyMG01LTE2djEybTUtOHY0IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjwvc3ZnPg%3D%3D&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>Local Whisper transcription</strong><br>
+&emsp;&nbsp;Run speech-to-text on your own machine</summary>
 
 An experiment in using OpenAI's Whisper model to turn audio into text locally.
 
