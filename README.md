@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://kevlog.co.za/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-176C62?style=for-the-badge&amp;logo=firefoxbrowser&amp;logoColor=white" height="26"></a>
-  <a href="https://kevlog.co.za/blog/"><img alt="Writing" src="https://img.shields.io/badge/Writing-176C62?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" height="26"></a>
+  <a href="https://kevlog.co.za/blog/"><img alt="Writing" src="https://img.shields.io/badge/Writing-5146A4?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" height="26"></a>
   <a href="https://www.linkedin.com/in/ksloggenberg/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-245C92?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yIDhoNHYxNEgyem0yLTZhMiAyIDAgMSAxIDAgNCAyIDIgMCAwIDEgMC00em01IDZoNHYyYzEtMiA0LTMgNi0yIDIgMSAzIDMgMyA2djhoLTR2LThjMC0zLTUtMy01IDB2OEg5eiIvPjwvc3ZnPg%3D%3D&amp;logoColor=white" height="26"></a>
   <a href="https://github.com/V4LKYR13101?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-292640?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="26"></a>
 </p>
@@ -14,7 +14,7 @@ I build software across the web, desktop, mobile and embedded devices. My projec
 ## ✦ Projects
 
 <details>
-<summary><picture><img src="https://img.shields.io/badge/Messaging-30363D?style=flat-square" alt="Messaging" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=whatsapp&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>WaTenancy</strong><br>
+<summary><picture><img src="https://img.shields.io/badge/Messaging-30363D?style=flat-square" alt="Messaging" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-176C62?style=rounded&amp;logo=whatsapp&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>WaTenancy</strong><br>
 &emsp;&nbsp;WhatsApp messaging for teams</summary>
 
 An ASP.NET Core and Blazor Server application that wraps <code>wacli</code> so companies can manage multiple WhatsApp numbers, team access, API keys and webhook endpoints within their own workspace.
@@ -24,7 +24,7 @@ An ASP.NET Core and Blazor Server application that wraps <code>wacli</code> so c
 </details>
 
 <details>
-<summary><picture><img src="https://img.shields.io/badge/Dev_Tools-30363D?style=flat-square" alt="Dev Tools" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=docker&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>Smoke Jumper</strong><br>
+<summary><picture><img src="https://img.shields.io/badge/Dev_Tools-30363D?style=flat-square" alt="Dev Tools" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-176C62?style=flat-square&amp;logo=docker&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>Smoke Jumper</strong><br>
 &emsp;&nbsp;.NET and database sandboxes in Docker</summary>
 
 I built a Windows tool for spinning up local test environments from a .NET project or a published build. You can run the application, restore a database copy, or bring both up together. Each workspace keeps its containers, ports, logs and backup history in one place.
@@ -38,7 +38,7 @@ For recovery drills, it restores MySQL or SQL Server backups into separate conta
 </details>
 
 <details>
-<summary><picture><img src="https://img.shields.io/badge/Dev_Tools-30363D?style=flat-square" alt="Dev Tools" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-30363D?style=flat-square&amp;logo=raspberrypi&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>Pico Studio</strong><br>
+<summary><picture><img src="https://img.shields.io/badge/Dev_Tools-30363D?style=flat-square" alt="Dev Tools" height="20" align="right"></picture><picture><img src="https://img.shields.io/badge/-176C62?style=flat-square&amp;logo=raspberrypi&amp;logoColor=C9D1D9" alt="" width="34" height="27" align="left" hspace="8"></picture>&nbsp;<strong>Pico Studio</strong><br>
 &emsp;&nbsp;A workspace for Raspberry Pi Pico</summary>
 
 I built Pico Studio to bring device files, a Python editor, diagnostics and the USB console into one desktop app. It can listen to a running board as soon as it connects. You enter the REPL explicitly when you need file access.
